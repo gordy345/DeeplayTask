@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="288425de-45d4-4696-8ad9-a04e664d56a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29O76BHEx8ISLD2Nr3J0NEtM9mJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="utils" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in deeplayTest">
+    <configuration name="All in deeplayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deeplayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deeplayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.getResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deeplayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="getResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deeplayTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.UtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.isInGrid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="deeplayTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utils" />
+      <option name="MAIN_CLASS_NAME" value="utils.UtilsTest" />
+      <option name="METHOD_NAME" value="isInGrid(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in deeplayTest" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.getResult" />
+        <item itemvalue="JUnit.UtilsTest" />
+        <item itemvalue="JUnit.UtilsTest.isInGrid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="288425de-45d4-4696-8ad9-a04e664d56a4" name="Default Changelist" comment="" />
+      <created>1652972100798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652972100798</updated>
+      <workItem from="1652972106849" duration="8936000" />
+      <workItem from="1653065602512" duration="684000" />
+      <workItem from="1654242606303" duration="3529000" />
+      <workItem from="1654662469198" duration="3496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="150" y="25" key="#Project_Structure" timestamp="1654663619259">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="150" y="25" key="#Project_Structure/45.25.1235.775@45.25.1235.775" timestamp="1654663619259" />
+    <state x="476" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1654243107903">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="474" y="132" key="#com.intellij.ide.util.MemberChooser/42.25.1238.775@42.25.1238.775" timestamp="1652978777013" />
+    <state x="476" y="132" key="#com.intellij.ide.util.MemberChooser/45.25.1235.775@45.25.1235.775" timestamp="1654243107903" />
+    <state x="281" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1654662920791">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="281" y="105" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/45.25.1235.775@45.25.1235.775" timestamp="1654662920791" />
+    <state x="45" y="25" width="478" height="775" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1654244200489">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="45" y="25" width="478" height="775" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/45.25.1235.775@45.25.1235.775" timestamp="1654244200489" />
+    <state x="400" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654662687096">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="400" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/45.25.1235.775@45.25.1235.775" timestamp="1654662687096" />
+    <state width="1193" height="195" key="GridCell.Tab.0.bottom" timestamp="1654665329210">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.0.bottom/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state width="1193" height="195" key="GridCell.Tab.0.bottom/45.25.1235.775@45.25.1235.775" timestamp="1654665329210" />
+    <state width="1193" height="195" key="GridCell.Tab.0.center" timestamp="1654665329209">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.0.center/42.25.1238.775@42.25.1238.775" timestamp="1652987001188" />
+    <state width="1193" height="195" key="GridCell.Tab.0.center/45.25.1235.775@45.25.1235.775" timestamp="1654665329209" />
+    <state width="1193" height="195" key="GridCell.Tab.0.left" timestamp="1654665329209">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.0.left/42.25.1238.775@42.25.1238.775" timestamp="1652987001188" />
+    <state width="1193" height="195" key="GridCell.Tab.0.left/45.25.1235.775@45.25.1235.775" timestamp="1654665329209" />
+    <state width="1193" height="195" key="GridCell.Tab.0.right" timestamp="1654665329210">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.0.right/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state width="1193" height="195" key="GridCell.Tab.0.right/45.25.1235.775@45.25.1235.775" timestamp="1654665329210" />
+    <state width="1196" height="242" key="GridCell.Tab.1.bottom" timestamp="1652987001189">
+      <screen x="42" y="25" width="1238" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.1.bottom/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state width="1196" height="242" key="GridCell.Tab.1.center" timestamp="1652987001189">
+      <screen x="42" y="25" width="1238" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.1.center/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state width="1196" height="242" key="GridCell.Tab.1.left" timestamp="1652987001189">
+      <screen x="42" y="25" width="1238" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.1.left/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state width="1196" height="242" key="GridCell.Tab.1.right" timestamp="1652987001189">
+      <screen x="42" y="25" width="1238" height="775" />
+    </state>
+    <state width="1196" height="242" key="GridCell.Tab.1.right/42.25.1238.775@42.25.1238.775" timestamp="1652987001189" />
+    <state x="150" y="25" key="SettingsEditor" timestamp="1654664442523">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="150" y="25" key="SettingsEditor/45.25.1235.775@45.25.1235.775" timestamp="1654664442523" />
+    <state x="441" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1654664621022">
+      <screen x="45" y="25" width="1235" height="775" />
+    </state>
+    <state x="441" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog/45.25.1235.775@45.25.1235.775" timestamp="1654664621022" />
+    <state x="326" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1652972702016">
+      <screen x="42" y="25" width="1238" height="775" />
+    </state>
+    <state x="326" y="124" width="670" height="676" key="search.everywhere.popup/42.25.1238.775@42.25.1238.775" timestamp="1652972702016" />
+  </component>
+</project>
